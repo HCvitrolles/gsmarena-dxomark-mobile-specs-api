@@ -1,1 +1,1 @@
-export const baseUrl = 'https://www.gsmarena.com';
+export const baseUrl = 'https://m.gsmarena.com';
